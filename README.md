@@ -1,7 +1,3 @@
-# Project
-
-## Please make sure you follow the project [guidelines](./guidelines.md) carefully.
-
 # Requirements:
 
 - opencv-python (cv2)
